@@ -1,2 +1,2 @@
 # odin-recipes
-practice project
+Practice project to work with various html tags and elements.
